@@ -62,7 +62,10 @@ export default {
             />
           </div>
         </section>
-        <section class="circle__section">
+        <section
+          v-show="appliedCircles.length < 3"
+          class="circle__section"
+        >
           <h2 class="circle__title">
             전체 동아리
           </h2>
