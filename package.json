@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
-    "@sentry/browser": "^5.0.5",
+    "@sentry/browser": "5.1.0",
     "@sentry/integrations": "^5.0.5",
     "axios": "^0.18.0",
     "date-fns": "^1.30.1",
